@@ -10,10 +10,11 @@ breaklinks = true]{hyperref}
 \usepackage{ragged2e}
 \usepackage{graphicx}
 \usepackage{enumitem}
+\usepackage{tabularx}
 \definecolor{hrefcolor}{RGB}{38, 66, 139}
 
-
 \newcommand{\MyHorizontalLine}{\noindent\rule{\linewidth}{1.5pt}\\}
+\newcommand{\MyHorizontalLineWithoutNewLine}{\noindent\rule{\linewidth}{1.5pt}}
 \predate{}
 \postdate{}
 \preauthor{}
@@ -61,11 +62,7 @@ breaklinks = true]{hyperref}
 		\raggedright\textbf{June 2021 - Present}\\
 		\textbf{Byonyks Pvt ltd.}
 		\item []	\justifying
-		In my current role, I develop and maintain software for a PD(Peritoneal Dialysis) machine, focusing
-		on new feature implementation, sensor integration, bug resolution and working with different
-		communications protocols such as RS232, RS485, I2C and more. I manage a multi-processing
-		software with inter-process communication, adhering to a layered architecture. All the development
-		is done in Qt and C++ on embedded linux.
+		In my current role, I develop and maintain software for a PD(Peritoneal Dialysis) machine, focusing on new feature implementation, sensor integration, bug resolution and working with different communications protocols such as RS232, RS485, I2C and more. I manage a multi-processing software with inter-process communication, adhering to a layered architecture. All the development is done in Qt and C++ on embedded linux.
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -90,16 +87,16 @@ breaklinks = true]{hyperref}
 \MyHorizontalLine
 	\textbf{TOOLS/SKILLS}
 	\begin{itemize}
-		\item[]
-		\begin{tabular}{ l c r }
-			AWS & Python3 & Bash \\
-			Linux & Latex & Qt/QML \\
-			C++17, STL & Git, Github & JIRA, BitBucket
-		\end{tabular}
+	\item[]
+		\begin{tabularx}{1.25\linewidth}{XXX}
+			AWS & Linux & Bash\\
+			LaTex & Qt & Qml\\
+			C++17 & STL & Git\\
+			Github & JIRA & BitBucket
+		\end{tabularx}
 	\end{itemize}
 	\MyHorizontalLine
-	\pagebreak
-	\\
+	\newpage
 	\MyHorizontalLine
 	\textbf{ACADEMIC/HOBBY PROJECTS}
 	\begin{itemize}
