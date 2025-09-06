@@ -1,0 +1,116 @@
+|--------------------------------------------------------------------------------------|
+|                                  PERSONAL INFO                                       |      
+|                                                                                      |
+| NAME         : MUHAMMAD USAMA TAYYAB                                                 |
+| Location     : Lahore, Pakistan                                                      |
+| Phone Number : +923224227287                                                         |
+| Email        : usamatayyab9@gmail.com                                                |
+| LinkedIn     : https://www.linkedin.com/in/usama-tayyab-00457418b/                   |
+| Github       : https://github.com/usamatayyab9                                       |
+|                                                                                      |
+| ==================================================================================== |
+|                                  PROFESSIONAL SUMMARY                                |
+|                                                                                      |
+| I am a passionate software engineer with over 4 years of experience in designing and |
+| developing high-performance applications, particularly in C++17/20 and Qt. Currently |
+| , I work at Byonyks, where I contribute to life-changing medical technology by deve- |
+| loping software for peritoneal dialysis machines on embedded Linux systems. My work  |
+| includes sensor integration, inter-process communication, and hardware interfacing   |
+| using protocols like RS232, RS485, and I2C.                                          |
+|                                                                                      |
+| ==================================================================================== |
+|                                                                                      |
+|                                  WORK EXPERIENCE                                     |
+| ------------------------------------------------------------------------------------ |
+| | C++ Software Engineer | Byonyks | Lahore, Pakistan | 06/2021 - Present           | |
+| ------------------------------------------------------------------------------------ |
+| In my current role, I develop and maintain software for a PD( Peritoneal Dialysis)   |
+| machine, focusing on new feature implementation, sensor integration, bug resolution  |
+| and working with different communications protocols such as RS232, RS485, I2C and    |
+| more. I manage a multi-processing software with inter-process communication,         |
+| adhering to a layered architecture. All the development is done in Qt and C++ on     |
+| embedded linux.                                                                      |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| | Software Engineer | Ebryx | Lahore, Pakistan | 04/2020 - 05/2021                 | |
+| ------------------------------------------------------------------------------------ |
+| Contributed to a Network Security product implemented in C, C++, Qt, and Python for  |
+| macOS, Linux, and Windows platforms. Implemented socket programming and SDP protocol |
+| to facilitate communication between controllers, gateways, and clients using TCP and |
+| UDP layers. Transferred data packets securely using SPA (Single Packet               |
+| Authentication).                                                                     |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| | Research Assistant | Information Technology University | Sept 2019 - March 2020  | |
+| ------------------------------------------------------------------------------------ |
+| Project: CIPL(Crime Investigation and Prevention Lab).                               |
+|                                                                                      |
+| ==================================================================================== |
+|                                  EDUCATION                                           |
+|                                                                                      |
+| Bachelor of Computer Science | University of Central Punjab | 2015 - 2019            |
+|                                                                                      |
+| ==================================================================================== |
+|                                                                                      |
+|                                  TOOLS/SKILLS                                        |
+|                                                                                      |
+| - Languages       : C++17/20 & STL, Python, C#, Bash                                 |
+| - Frameworks/Tools: Qt/QML, STL, Git, GitHub, JIRA, Bitbucket, LaTeX                 |
+| - Platforms       : Embedded Linux, AWS                                              |
+|                                                                                      |
+| ==================================================================================== |
+|                                                                                      |
+|                                  ACADEMIC/HOBBY PROJECTS                             |
+|                                                                                      |
+| * AI Based Snake Game:                                                               |
+|     An AI -based snake which uses three different algorithms for snake movement i.e. |
+|     Breadth-first search (BFS), Depth-first search (DFS) and A* (heuristic based).   |
+|     Random food for snake is generated every time. Game is over when the snake bites |
+|     itself. This application is built using external C++ libraries SFML (Simple Fast |
+|     Multimedia Library) for graphics. The type of algorithm is given at run time via |
+|     a command line argument.                                                         |
+|                                                                                      |
+| * Minesweeper in C#:                                                                 |
+|     A windows 7 like minesweeper game developed in C# using windows form platform as |
+|     a part of course project.                                                        |
+|                                                                                      |
+| * Solved all problems of the book “The Modern C++ Challenge: Become an expert        |
+| programmer by solving real-world problems”:                                          |
+|     I solved all 100 problems in ”The Modern C++ Challenge” book, showcasing my      |
+|     passion for problem-solving. I indulged into diverse topics such as primality    |
+|     testing, Collatz conjecture, variadic template arguments, regex, working with    |
+|     time zones in Qt, data structures, multithreading, design patterns, file         |
+|     operations (XML, JSON, PDF), image manipulation, SQLite, cryptography and        |
+|     networking.                                                                      |
+|                                                                                      |
+| * Solved 203 problems on LeetCode:                                                   |
+|     As a hobby project I solved 203 problems on LeetCode. Which include 98 problems  |
+|     on easy difficulty, 102 problems of medium difficulty and 3 problems of hard     |
+|     difficulty. All the problems solved were related to data structures and          |
+|     algorithms and were programmed in C++17.                                         |
+|                                                                                      |
+| * Search Engine of Wikipedia articles:                                               |
+|     In this project all provided Wikipedia articles are first stored in memory then  |
+|     queries are performed. Two different data structures are used to store data.     |
+|     1. Hash map (unordered map) and tree structure (map) which are provided by C++11 |
+|                                                                                      |
+| * File Compression/Decompression-Huffman algorithm:                                  |
+|     A set of programs are developed which compresses a text file given by the user   |
+|     and then decompresses it. To achieve this Huffman algorithm was used. During     |
+|     compression, the input file is read twice: First iteration file is traversed to  |
+|     generate a Huffman tree and store it on disk. Second iteration is used to        |
+|     compress a file. During decompression first the tree is loaded from the disk     |
+|     then decompression is done.                                                      |
+|                                                                                      |
+| * Notepad and command prompt (Concept used “generic trees”):                         |
+|     A Windows-like command prompt in which a user can create, edit, delete director- |
+|     ies and files. For storing file and directory structure a custom made tree stru- |
+|     cture was implemented. Along with a text editor in which a user can edit the     |  
+|     text of a file.                                                                  |
+|                                                                                      |
+| * Disk Sort/External Sort:                                                           |
+|     In this project a program is developed which sorts an input file that can not be |
+|     fit into RAM. Program reads the input file in chunks, sort each chunk and writes |
+|     the sorted chunk in binary file. Then all binary files are merged to generate a  |
+|     sorted output file.                                                              |
+|______________________________________________________________________________________|
