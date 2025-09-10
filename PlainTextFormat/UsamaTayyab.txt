@@ -1,5 +1,5 @@
 |--------------------------------------------------------------------------------------|
-|                                  PERSONAL INFO                                       |      
+|                                  PERSONAL INFO                                       |
 |                                                                                      |
 | NAME         : MUHAMMAD USAMA TAYYAB                                                 |
 | Location     : Lahore, Pakistan                                                      |
@@ -105,7 +105,7 @@
 | * Notepad and command prompt (Concept used “generic trees”):                         |
 |     A Windows-like command prompt in which a user can create, edit, delete director- |
 |     ies and files. For storing file and directory structure a custom made tree stru- |
-|     cture was implemented. Along with a text editor in which a user can edit the     |  
+|     cture was implemented. Along with a text editor in which a user can edit the     |
 |     text of a file.                                                                  |
 |                                                                                      |
 | * Disk Sort/External Sort:                                                           |
