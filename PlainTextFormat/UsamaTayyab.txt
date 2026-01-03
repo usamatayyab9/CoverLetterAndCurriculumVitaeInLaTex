@@ -53,7 +53,8 @@
 | ==================================================================================== |
 |                                  TOOLS/SKILLS                                        |
 |                                                                                      |
-| - Languages       : C++17/20 & STL, Python, C#, Bash                                 |
+| - Languages       : C++17/20 & STL, Python(Automation, Web Scrapping, Data Analysis) |
+|                     , C#, Bash                                                       |
 | - Frameworks/Tools: Qt/QML, STL, Git, GitHub, JIRA, Bitbucket, LaTeX                 |
 | - Platforms       : Embedded Linux, AWS                                              |
 |                                                                                      |
@@ -111,4 +112,11 @@
 |     fit into RAM. Program reads the input file in chunks, sort each chunk and writes |
 |     the sorted chunk in binary file. Then all binary files are merged to generate a  |
 |     sorted output file.                                                              |
+| ==================================================================================== |
+|                                  CERTIFICATIONS                                      |
+| Python (Coursera)                                                                    |
+| - Data Analysis & Visualization with Python                                          |
+| - Using Python to Access Web Data                                                    |
+| - Python Programming Fundamentals                                                    |
+| Credential IDs available on request                                                  |
 |______________________________________________________________________________________|
