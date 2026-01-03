@@ -115,8 +115,8 @@
 | ==================================================================================== |
 |                                  CERTIFICATIONS                                      |
 | Python (Coursera)                                                                    |
-| - Data Analysis & Visualization with Python                                          |
-| - Using Python to Access Web Data                                                    |
-| - Python Programming Fundamentals                                                    |
+| - Data Analysis & Visualization with Python - Microsoft (Coursera)                   |
+| - Using Python to Access Web Data - University of Michigan (Coursera)                |
+| - Python Programming Fundamentals - Microsoft (Coursera)                             |
 | Credential IDs available on request                                                  |
 |______________________________________________________________________________________|
