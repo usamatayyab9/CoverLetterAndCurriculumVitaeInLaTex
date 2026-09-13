@@ -1,0 +1,127 @@
+|--------------------------------------------------------------------------------------|
+|                                   PERSONAL INFO                                      |
+|                                                                                      |
+| NAME         : MUHAMMAD USAMA TAYYAB                                                 |
+| Location     : Lahore, Pakistan                                                      |
+| LinkedIn     : https://www.linkedin.com/in/usama-tayyab-00457418b/                   |
+| Github       : https://github.com/usamatayyab9                                       |
+|                                                                                      |
+| ==================================================================================== |
+|                                   PROFESSIONAL SUMMARY                               |
+|                                                                                      |
+| Senior Software Engineer with 5+ years of experience building high-performance       |
+| cross-platform desktop and embedded applications. Technical skills include Qt        |
+| (Widgets and QML), modern C++ (C++17/20), Linux, Bash and PowerShell scripting,      |
+| Python for automation and data science, and web development. Contributed to FDA-     |
+| regulated medical devices and security-focused products, with strong expertise in    |
+| system architecture, performance optimization, and robust software design.           |
+|                                                                                      |
+| ==================================================================================== |
+|                                   WORK EXPERIENCE                                    |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| | C++ Software Engineer | Byonyks | Lahore, Pakistan | 06/2021 - Present           | |
+| ------------------------------------------------------------------------------------ |
+|   - Developed and maintained software for FDA-cleared Automated Peritoneal Dialysis  |
+|     (APD) machine using C++17 and STL, Qt framework, and embedded Linux.             |
+|   - Developed and reviewed C++ code to ensure full compliance with MISRA C++, Google |
+|     C++ Style Guide, and ISO C++ Core Guidelines.                                    |
+|   - Maintained comprehensive technical documentation for regulatory compliance,      |
+|     audits, and periodic software releases.                                          |
+|   - Architected an inter-process communication system using Linux message queues for |
+|     real-time data transfer between system components.                               |
+|   - Collaborated with cross-functional teams (electrical, mechanical, QA engineers)  |
+|     to gather requirements and define new features for the machine.                  |
+|   - Conducted code reviews and mentored junior engineers in writing automated tests  |
+|     using the Google Test framework, increasing code coverage to 95%.                |
+|   - Managed source control via GitHub and Surround SCM, tracked tasks using Helix &  |
+|     JIRA, and deployed periodic software releases through AWS.                       |
+|   - Reviewed large-scale therapy failure logs to identify root causes; developed     |
+|     scripts using C++20, Python3, and PowerShell to automate log processing and      |
+|     analysis.                                                                        |
+|   - Resolved critical bugs in production, enhancing device reliability and           |
+|     increasing the success percentage of patient treatments from 60% to 91%.         |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| | Software Engineer | Ebryx | Lahore, Pakistan | 04/2020 - 05/2021                 | |
+| ------------------------------------------------------------------------------------ |
+|   - Contributed to a cross-platform firewall desktop application implemented in C,   |
+|     C++, Qt, and Python for macOS, Linux, and Windows.                               |
+|   - Implemented socket programming and the SDP protocol to facilitate TCP/UDP        |
+|     communication between controllers, gateways, and clients.                        |
+|   - Integrated Single Packet Authentication (SPA) to securely transfer data packets. |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| | Research Assistant | Information Technology University | Sept 2019 - March 2020  | |
+| ------------------------------------------------------------------------------------ |
+|   - Contributed to the Crime Investigation and Prevention Lab (CIPL) project,        |
+|     focusing on audio analysis and keyword spotting.                                 |
+|   - Developed keyword spotting algorithms for audio utterance analysis.              |
+|   - Applied machine learning techniques to audio signal processing for automated     |
+|     detection systems.                                                               |
+| ==================================================================================== |
+|                                   EDUCATION                                          |
+|                                                                                      |
+| Bachelor of Computer Science | University of Central Punjab | 2015 - 2019            |
+|                                                                                      |
+| ==================================================================================== |
+|                                   TOOLS/SKILLS                                       |
+|                                                                                      |
+| - Languages       : C++17/20/23 & STL, Python (Scripting, Automation, Data           |
+|                     Analysis)                                                        |
+| - Scripting       : Shell, PowerShell                                                |
+| - Frameworks/Tools: Qt 5.x/QML, CMake, Makefile, GCC, G-Test, OpenSSL, Git,          |
+|                     GitHub, Bitbucket, Surround SCM, JIRA, Helix, LaTeX              |
+| - Platforms       : Embedded Linux, AWS                                              |
+| - Databases       : SQLite, MySQL                                                    |
+|                                                                                      |
+| ==================================================================================== |
+|                                   ACADEMIC/HOBBY PROJECTS                            |
+|                                                                                      |
+| * AI Based Snake Game:                                                               |
+|     An AI-based snake game using SFML which deploys three different algorithms for   |
+|     snake movement i.e. Breadth-first search (BFS), Depth-first search (DFS), and A* |
+|     (heuristic based) to find the food.                                              |
+|                                                                                      |
+| * Minesweeper in C#:                                                                 |
+|     A windows 7 like minesweeper game developed in C# using windows form platform as |
+|     a part of course project.                                                        |
+|                                                                                      |
+| * Completed “The Modern C++ Challenge” (100 Problems):                               |
+|     Solved all 100 problems in “The Modern C++ Challenge” book, showcasing my        |
+|     passion for problem-solving. Topics covered include primality testing, Collatz   |
+|     conjecture, variadic templates, regex, time zones, multithreading, design        |
+|     patterns, file operations (XML, JSON, PDF), image manipulation, SQLite,          |
+|     cryptography, and networking.                                                    |
+|                                                                                      |
+| * LeetCode Problem Solving (217 Problems):                                           |
+|     Due to my passion for problem solving, I solved 217 problems on LeetCode – 101   |
+|     easy, 104 medium, and 12 hard – focusing on data structures and algorithms in    |
+|     C++17.                                                                           |
+|                                                                                      |
+| * Search Engine of Wikipedia articles:                                               |
+|     Implemented a search engine for provided Wikipedia articles using C++11 and STL  |
+|     containers (std::unordered_map and std::map) for data indexing and retrieval,    |
+|     then performed a comparative analysis of hash-based and tree-based data          |
+|     structure efficiency.                                                            |
+|                                                                                      |
+| * File Compression/Decompression System:                                             |
+|     Implemented the Huffman algorithm for text file compression and decompression.   |
+|                                                                                      |
+| * Notepad and command prompt (Concept used “generic trees”):                         |
+|     A Windows-like command prompt in which a user can create, edit, and delete       |
+|     directories and files. A custom-made tree structure was implemented for storing  |
+|     the file and directory structure, along with a text editor in which a user can   |
+|     edit the text of a file.                                                         |
+|                                                                                      |
+| * Disk Sort/External Sort:                                                           |
+|     Created a program to sort files larger in size than RAM capacity using chunk-    |
+|     based sorting and a k-way merge algorithm.                                       |
+| ==================================================================================== |
+|                                   CERTIFICATIONS                                     |
+| - Data Analysis & Visualization with Python - Microsoft (Coursera)                   |
+|   https://coursera.org/verify/PM6WXPQQR9RP                                           |
+| - Using Python to Access Web Data - University of Michigan (Coursera)                |
+|   https://coursera.org/verify/6RCFU7346HKM                                           |
+| Credential IDs available on request                                                  |
+|______________________________________________________________________________________|
